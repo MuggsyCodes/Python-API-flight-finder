@@ -6,9 +6,9 @@ import os
 #city_end_point = 'https://api.sheety.co/897a97aa37b24984bb01f80417d3f791/flightDeals/prices'
 city_end_point= os.environ.get('city_end_point')
 
-#sheety_username = "Enzo"
-#sheety_password = "Enzo_Oct18"
-#sheety_authorization = "Basic RW56bzpFbnpvX09jdDE4"
+#sheety_username = 
+#sheety_password =
+#sheety_authorization = 
 sheety_authorization = os.environ.get('sheety_authorization')
 user_post_end_point = os.environ.get('user_post_end_point')
 
