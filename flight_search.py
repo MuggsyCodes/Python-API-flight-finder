@@ -7,9 +7,9 @@ from pprint import pprint
 # Kiwi Partners Flight Search API (Free Signup, Requires Credit Card Details) - https://partners.kiwi.com/
 #
 # Tequila Flight Search API Documentation - https://tequila.kiwi.com/portal/docs/tequila_api
-# username: EnzoJiro
-# password: ZuEhB3pLn9fxjY7
-# Tequila_API_Key = NJU8vsZ6srkan6HS6jkbAZmlGf6ismAr
+# username: 
+# password: 
+# removed API
 Tequilia_API_Key = os.environ.get('tequila_api')
 #basic_search_end_point = "https://tequila-api.kiwi.com/v2/search"
 basic_search_end_point = os.environ.get('basic_search_end_point')
